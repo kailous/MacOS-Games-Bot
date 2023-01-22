@@ -1,0 +1,28 @@
+{
+  "name": "macos-games-bot",
+  "version": "1.0.0",
+  "description": "第一个机器人项目",
+  "main": "bot.js",
+  "scripts": {
+    "test": "debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kailous/MacOS-Games-Bot.git"
+  },
+  "keywords": [
+    "bot",
+    "macos",
+    "discord"
+  ],
+  "author": "rainforest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kailous/MacOS-Games-Bot/issues"
+  },
+  "homepage": "https://github.com/kailous/MacOS-Games-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "nodemon": "^2.0.20"
+  }
+}
